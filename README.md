@@ -6,7 +6,7 @@ Customizable slides that can be displayed to introduce the app or explain its fu
 
 Configure a slider to show the functionality of your app.
 
-![alt text](http://puigtowers.com/plugins/flutter/intro_slider)
+![alt text](http://puigtowers.com/plugins/flutter/intro_slider.png)
 
 ## Getting started
 
